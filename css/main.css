@@ -86,10 +86,12 @@
   width: 20px;
 }
 .home-2 {
-  color: hsl(36, 64%, 54%);
   border-bottom: 2px solid hsl(36, 64%, 54%);
 }
+.home-2 a{
+  color: hsl(36, 64%, 54%);
 
+}
 .Group-11571 {
   display: none;
 }
@@ -650,9 +652,8 @@
   .btn-style1 {
     font-size: 12px;
   }
-}
 
-@media (max-width: 650px) {
+
   .footer1,
   .vector {
     display: none;
